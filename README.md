@@ -3,8 +3,8 @@
 
 ## Program Specifications
 1. Add Product
-2.Check Exist product from file
-3.Search Product by ProductName
+2. Check Exist product from file
+3. Search Product by ProductName
 4. Update/Delete Product by ProductID
    * Update CD  
    * Delate CD
