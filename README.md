@@ -10,7 +10,7 @@
    * Delate CD
 5. Save Product to file. 
 6. Print list CDs from file.
-7.Exist
+7. Exist
 
 ## Contact
 |Name|Email|
