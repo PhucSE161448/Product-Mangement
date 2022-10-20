@@ -1,0 +1,2 @@
+001	Milka	350.0	200.0	Not available
+001	Sodaa	500.0	300.0	Not available
